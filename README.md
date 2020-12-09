@@ -1,6 +1,6 @@
 # Cypriot Telno Wordlists
 
-This repository contains wordlists with all possible combinations of Cypriot telephone numbers, landline or mobile numbers for any operator, each composed by 8 characters longs including the region code.
+This repository contains wordlists with all possible combinations of Cypriot telephone numbers, landline or mobile numbers for any operator, each composed by 8 characters longs including the region code. 8000000 Differnet Combinations.
 
 ## Details
 #### Landline
